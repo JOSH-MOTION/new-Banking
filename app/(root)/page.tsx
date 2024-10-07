@@ -2,9 +2,9 @@ import React from 'react'
 
 function page() {
   return (
-    <div>
-      home
-    </div>
+    <section>
+        <h1>Home</h1>
+    </section>
   )
 }
 
